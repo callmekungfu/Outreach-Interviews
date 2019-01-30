@@ -33,4 +33,24 @@ Develop Build
 - [Patrique Legault](mailto:patrique.legault@uottawa.ca)
 
 
+# Technical Questions
+
+The following are my answers to the technical questions.
+
+## What does a foreign key represent within the database?
+
+## What does a primary key represent within the database?
+
+## You are tasked to retrieve a primitive value from a JSON object, what is the best way to do so and why?
+
+## What do Maven and NPM have in common and languages are they used for?
+
+Both Maven and NPM are software project managers for their respective languages and frameworks. Maven is used for Java, while NPM is used for Node.js/Javascript. They both allow
+
+## When would you do an HTTP POST request vs an HTTP PUT request
+
+
+## If you are uncertain of a certain task how would start solving the problem, list a set of items to start solving the problem
+
+
 

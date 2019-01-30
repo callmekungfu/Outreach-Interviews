@@ -27,3 +27,4 @@ target/
 .project
 .settings/
 candidate-questions/apidocs/
+.idea/
